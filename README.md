@@ -6,7 +6,6 @@
  **Interactive Version (roadmap.sh)** link [here](https://roadmap.sh/r/aqa-1)
 
 
-
 A structured decision and governance framework for applying AI testing responsibly in modern QA systems.
 
 This roadmap complements execution-focused AI testing guides by introducing a decision-making layer around ownership, autonomy, risk, and operational responsibility.
