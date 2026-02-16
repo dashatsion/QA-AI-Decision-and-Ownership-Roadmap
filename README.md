@@ -73,6 +73,7 @@ If you reference this framework, please cite:
 
 Daria Tsion,  
 “QA → AI Decision & Ownership Roadmap”, GitHub, 2026.
+Version 1.0
 
 ---
 
