@@ -3,6 +3,8 @@
 # QA → AI Decision & Ownership Roadmap
 <img width="1357" height="822" alt="Screenshot 2026-02-16 at 7 00 34 PM" src="https://github.com/user-attachments/assets/813f3868-b3fb-43f7-aa0b-eb57e91a1a49" />
 
+ **Interactive Version (roadmap.sh)** link [here](https://roadmap.sh/r/aqa-1)
+
 
 
 A structured decision and governance framework for applying AI testing responsibly in modern QA systems.
