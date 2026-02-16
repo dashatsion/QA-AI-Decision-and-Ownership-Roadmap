@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+
 # QA → AI Decision & Ownership Roadmap
 <img width="1357" height="822" alt="Screenshot 2026-02-16 at 7 00 34 PM" src="https://github.com/user-attachments/assets/813f3868-b3fb-43f7-aa0b-eb57e91a1a49" />
 
