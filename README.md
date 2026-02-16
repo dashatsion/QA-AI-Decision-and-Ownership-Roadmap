@@ -47,6 +47,14 @@ Together, they form a complete AI QA model:
 
 ---
 
+## Collaboration Context
+
+This framework was developed in collaboration with [Tanvi Mittal](https://github.com/77QAlab), author of the [AI LLM Testing Playbook](https://github.com/77QAlab/QA-Playbook-Tutorials).
+
+It serves as a complementary governance and decision-making layer to execution-focused AI testing methodologies.
+
+-----
+
 ## How to Use This Roadmap
 
 This roadmap can be used:
